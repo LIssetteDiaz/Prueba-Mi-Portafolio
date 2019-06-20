@@ -1,0 +1,83 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.navbar, .mis-trabajos, footer {
+  background-color: #660066;
+}
+
+.titulo-navbar, .texto-footer {
+  margin-bottom: 0;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 700;
+  font-size: 40px
+
+}
+
+header {
+  background-image: url('../img/bg_hero.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+  padding-bottom: 10rem;
+  height: 738px;
+  margin-top: 75px;
+}
+
+.text-1 {
+  border-bottom: 2px solid #ffffff;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 200;
+  font-size: 72px
+}
+
+.text-2 {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 700;
+  font-size: 72px
+}
+
+.contenedor-header {
+  max-width: 30%;
+  padding-top: 460px;
+}
+
+.titulo-lorem {
+  font-weight: 600;
+  font-size: 25px;
+}
+
+.parrafos-lorem {
+  font-weight: 400;
+  font-size: 16px;
+}
+
+hr {
+  border-top: 2px solid rgba(0, 0, 0, 0.85);
+  width: 120px;
+}
+
+.titulo-experiencia {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 700;
+  font-size: 52px;
+}
+
+.texto-experiencia {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 600;
+  font-size: 25px;
+}
+
+.texto-experiencia2 {
+  font-weight: 300;
+  font-size: 25px;
+}
+
+.fas {
+  color: #660066;
+}
+
+.carousel-iconos {
+  width: 50%;
+}
