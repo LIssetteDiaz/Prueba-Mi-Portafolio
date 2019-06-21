@@ -2,7 +2,7 @@ body {
   font-family: 'Open Sans', sans-serif;
 }
 
-.navbar, .mis-trabajos, footer {
+.navbar, .mis-trabajos, footer, .color-fondo {
   background-color: #660066;
 }
 
@@ -84,7 +84,8 @@ hr {
 }
 
 .carousel-iconos {
-  width: 50%;
+  margin: 0 auto;
+  width: 55%;
 }
 
 .titulo-trabajos {
@@ -102,4 +103,8 @@ hr {
 .texto-trabajos {
   font-weight: 300;
   font-size: 16px
+}
+
+.card {
+  border: 0;
 }
